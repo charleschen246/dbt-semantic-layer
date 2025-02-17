@@ -16,6 +16,7 @@ models:
       columns:
           - name: id
             description: "The primary key for this table"
-            tests:
-                - unique
-                - not_null
+            tests:rggerg
+                - uniquee
+                - not_nullregerger
+gerger
