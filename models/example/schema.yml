@@ -16,6 +16,12 @@ models:
       columns:
           - name: id
             description: "The primary key for this table"
-            tests:
+            tests:fwefwef
+            fwe
+            fwe
+            fe
+            wf
+            we
+            
                 - unique
                 - not_null
