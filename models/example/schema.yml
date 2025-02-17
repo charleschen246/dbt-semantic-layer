@@ -17,11 +17,11 @@ models:
           - name: id
             description: "The primary key for this table"
             tests:fwefwef
-            fwe
-            fwe
+            fweqdw
+            fwedw
             fe
             wf
-            we
-            
+            wedw
+
                 - unique
-                - not_null
+                - not_nulldw
